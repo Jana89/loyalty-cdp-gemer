@@ -1,24 +1,16 @@
-# Gemer One - Loyalty Studio
+# Gemer Loyalty Studio Demo
 
-A Vercel-ready Next.js prototype for loyalty, messaging, reviews, store enrollment, and CDP workflows.
+A Vercel-ready Next.js demo app for loyalty, CRM and CDP workflows.
 
-## Run locally
+## Deploy
 
-```bash
-npm install
-npm run dev
-```
-
-## Deploy to Vercel
-
-1. Push this project to GitHub.
-2. Import the repository into Vercel.
-3. Framework preset: **Next.js**.
-4. Root directory: repository root.
-5. Deploy.
+1. Push this folder to GitHub
+2. Import the repo into Vercel
+3. Framework preset: Next.js
+4. Deploy
 
 ## Notes
 
-- Uses the Next.js App Router.
-- Uses Inter via `next/font/google`.
-- Styling is done with Tailwind CSS.
+- Uses Next.js App Router
+- Uses `next/font/google` for Inter
+- Does not require Tailwind CSS

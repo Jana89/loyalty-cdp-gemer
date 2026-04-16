@@ -4,8 +4,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Gemer One | Loyalty Studio',
-  description: 'Loyalty and CDP demo application',
+  title: 'Gemer Loyalty Studio',
+  description: 'Loyalty and CDP demo app'
 };
 
 export default function RootLayout({ children }) {
